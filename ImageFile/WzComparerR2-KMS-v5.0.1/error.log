@@ -1,0 +1,24 @@
+[2023-08-18 17:29:24][Error][MapRender] Coroutine Error: System.AggregateException: 하나 이상의 오류가 발생했습니다. ---> System.Exception: Cannot find map info node.
+   위치: WzComparerR2.MapRender.MapData.Load(Wz_Node mapImgNode, ResourceLoader resLoader)
+   위치: WzComparerR2.MapRender.FrmMapRender2.<LoadMap>d__67.MoveNext()
+   --- 내부 예외 스택 추적의 끝 ---
+---> (내부 예외 #0) System.Exception: Cannot find map info node.
+   위치: WzComparerR2.MapRender.MapData.Load(Wz_Node mapImgNode, ResourceLoader resLoader)
+   위치: WzComparerR2.MapRender.FrmMapRender2.<LoadMap>d__67.MoveNext()<---
+
+[2023-08-21 19:03:55][Error][MapRender] Coroutine Error: System.AggregateException: 하나 이상의 오류가 발생했습니다. ---> System.Exception: Cannot find map info node.
+   위치: WzComparerR2.MapRender.MapData.Load(Wz_Node mapImgNode, ResourceLoader resLoader)
+   위치: WzComparerR2.MapRender.FrmMapRender2.<LoadMap>d__67.MoveNext()
+   --- 내부 예외 스택 추적의 끝 ---
+---> (내부 예외 #0) System.Exception: Cannot find map info node.
+   위치: WzComparerR2.MapRender.MapData.Load(Wz_Node mapImgNode, ResourceLoader resLoader)
+   위치: WzComparerR2.MapRender.FrmMapRender2.<LoadMap>d__67.MoveNext()<---
+
+[2023-08-21 19:04:06][Error][MapRender] Coroutine Error: System.AggregateException: 하나 이상의 오류가 발생했습니다. ---> System.Exception: Cannot find map info node.
+   위치: WzComparerR2.MapRender.MapData.Load(Wz_Node mapImgNode, ResourceLoader resLoader)
+   위치: WzComparerR2.MapRender.FrmMapRender2.<LoadMap>d__67.MoveNext()
+   --- 내부 예외 스택 추적의 끝 ---
+---> (내부 예외 #0) System.Exception: Cannot find map info node.
+   위치: WzComparerR2.MapRender.MapData.Load(Wz_Node mapImgNode, ResourceLoader resLoader)
+   위치: WzComparerR2.MapRender.FrmMapRender2.<LoadMap>d__67.MoveNext()<---
+
